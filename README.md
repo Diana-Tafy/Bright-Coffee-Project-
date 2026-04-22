@@ -1,6 +1,5 @@
 ### Bright Coffee Shop Project
 
-###Dashboard Overview  
 
 ###About the Project:
 The project focuses on identifying ways to improve sales and gain insights into product and store performance.

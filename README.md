@@ -1,4 +1,4 @@
-### Bright Coffee
+### Bright Coffee Shop Project
 
 ###Dashboard Overview  https://lucid-insight-board.lovable.app
 

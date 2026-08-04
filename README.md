@@ -27,7 +27,7 @@ The presentation was created using Canva and included key insights and recommend
 ###POWER BI DASHBORD
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e158e111-9e7d-4089-9d19-7c4739e596c7" />
 
-# Bright Coffee Shop - Sales Performance Analysis
+### Bright Coffee Shop - Sales Performance Analysis
 
 ## Executive Summary
 This Power BI dashboard analyzes sales revenue across three store locations (Hell's Kitchen, Astoria, and Lower Manhattan) from January to June. Total revenue generated across all branches reached **$698.81K**.
